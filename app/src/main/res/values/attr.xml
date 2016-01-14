@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressBarTest">
+        <attr name="bgColor" format="color"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="progressSize" format="dimension"/>
+        <attr name="max" format="integer"/>
+        <attr name="progress" format="integer"/>
+        <attr name="shadowSize" format="dimension"/>
+        <attr name="shadowColor" format="dimension"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="startAndEndRound" format="boolean"/>
+        <attr name="useMultipleColor" format="boolean"/>
+    </declare-styleable>
+</resources>
